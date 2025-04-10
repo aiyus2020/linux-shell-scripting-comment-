@@ -7,6 +7,9 @@ This script demonstrates how to use **comments** in Bash scripting. Comments are
 ---
 
 ## 📄 Script Content
+ - created the script 
+ 
+ ![script](./img/created%20the%20script.png)
 
 ```bash
 #! /bin/bash
