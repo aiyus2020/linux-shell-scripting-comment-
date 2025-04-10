@@ -22,8 +22,8 @@ ls -la
 
 # Display a goodbye message
 echo "✅ Script execution complete. Goodbye!"
+```
 ![test](./img/test.png)
----
 
 ## 📄 Script Content
  - created the script 
