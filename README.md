@@ -16,4 +16,6 @@ This script demonstrates how to use **comments** in Bash scripting. Comments are
 # # a multi-line comment. Each line
 # # is prefixed with a # symbol.
 echo "Here is an actual code that gets executed
+
+```
 ![comment](./img/comment.png)
