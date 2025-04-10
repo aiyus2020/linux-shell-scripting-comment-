@@ -4,11 +4,30 @@
 
 This script demonstrates how to use **comments** in Bash scripting. Comments are an essential part of writing clean and understandable scripts. They are ignored during execution but help explain what the code is doing.
 
+## 📜 Script Overview (`commented_script.sh`)
+
+```bash
+#!/bin/bash
+
+# This is a simple Bash script to demonstrate comments and basic commands
+
+# Print a welcome message
+echo "👋 Welcome! You are learning Bash scripting on DAREY.IO."
+
+# Create a directory named TestFolder
+mkdir TestFolder
+
+# List all files and folders in the current directory
+ls -la
+
+# Display a goodbye message
+echo "✅ Script execution complete. Goodbye!"
+![test](./img/test.png)
 ---
 
 ## 📄 Script Content
  - created the script 
- 
+
  ![script](./img/created%20the%20script.png)
 
 ```bash
